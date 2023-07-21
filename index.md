@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# World of DWS
-
-A simple simulator based on Azeroth Core.
+## Intro
 
 ## World Versions
 
