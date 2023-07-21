@@ -1,3 +1,4 @@
+title=#
 # World of DWS
 
 A simple simulator based on Azeroth Core.
