@@ -1,7 +1,5 @@
 ---
-theme: pages-themes/midnight@v0.2.0
-layout: page
-title: #
+layout: default
 ---
 
 # World of DWS
